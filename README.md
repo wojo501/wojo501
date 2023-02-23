@@ -22,5 +22,7 @@ It contains:
 - R, Shiny
 - Java
 - Python
+- JavaScript
 
-- 🌱 I’m currently learning JavaScript and machine learning in Python
+## 🌱 Actually learning:
+- JavaScript, machine learning in Python
