@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a student who is taking first steps into IT world! 😄
+
+You could find here university projects and my own ideas!
+- 🌱 I’m currently learning JavaScript and machine learning in Python
