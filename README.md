@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a student who is taking first steps into IT world! 😄
+I'm a student taking first steps into IT world! 😄
 
 You could find here university projects and my own ideas!
+It contains:
+- R, Shiny
+- Java
+- Python
+
 - 🌱 I’m currently learning JavaScript and machine learning in Python
