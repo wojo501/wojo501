@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **wojo501/wojo501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,5 +25,5 @@ It contains:
 - JavaScript
 - MongoDB
 
-## 🌱 Actually learning:
+### 🌱 Actually learning:
 - JavaScript, machine learning in Python
