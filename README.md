@@ -23,6 +23,7 @@ It contains:
 - Java
 - Python
 - JavaScript
+- MongoDB
 
 ## 🌱 Actually learning:
 - JavaScript, machine learning in Python
