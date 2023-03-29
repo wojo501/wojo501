@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Data Science student at the Warsaw University of Technology. My first steps to the IT world were taken! 😄
+I'm a Data Science student at the Warsaw University of Technology. My first steps to the IT world were taken! 😄<br/>
 Feel free to contact with me.
 
 You could find here university projects and my own ideas!
