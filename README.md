@@ -26,5 +26,5 @@ It contains:
 - JavaScript
 - MongoDB
 
-### 🌱 Actually learning:
+### 🌱 Currently learning:
 - JavaScript, machine learning in Python
