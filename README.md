@@ -21,10 +21,10 @@ Feel free to contact with me.
 You could find here university projects and my own ideas!
 It contains:
 - R, Shiny
-- Java
+- Java (Spring-Boot)
 - Python
-- JavaScript
-- MongoDB
+- JavaScript (React)
+- SQL, MongoDB
 
 ### 🌱 Currently learning:
-- JavaScript, machine learning in Python
+- Spring-Boot, machine learning in Python
