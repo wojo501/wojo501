@@ -22,7 +22,7 @@ You could find here university projects and my own ideas!
 It contains:
 - R, Shiny
 - Java (Spring-Boot)
-- Python
+- Python (Machine Learning)
 - JavaScript (React)
 - SQL, MongoDB
 
