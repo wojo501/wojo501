@@ -15,16 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Data Science student at the Warsaw University of Technology. My first steps to the IT world were taken! 😄<br/>
+I'm a Data Science student.
+Universities:
+- Warsaw University of Technology<br/>
+- Vienna University of Technology<br/>
 Feel free to contact with me.
 
 You could find here university projects and my own ideas!
-It contains:
-- R, Shiny
+Technologies I am familiar with:
+- R (Shiny), Matlab
 - Java (Spring-Boot)
 - Python (Machine Learning)
 - JavaScript (React)
 - SQL, MongoDB
-
-### 🌱 Currently learning:
-- Spring-Boot, machine learning in Python
+- Matlab
+- Kotlin
+- AWS
