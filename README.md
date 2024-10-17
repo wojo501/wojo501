@@ -24,11 +24,10 @@ Feel free to contact with me.
 
 You could find here university projects and my own ideas! <br/>
 Technologies I am familiar with:
-- R (Shiny), Matlab
-- Java (Spring-Boot)
-- Python (Machine Learning)
-- JavaScript (React)
+- R, Matlab
+- Java
+- Python
+- JavaScript, ReactNative
 - SQL, MongoDB
-- Matlab
 - Kotlin
 - AWS
