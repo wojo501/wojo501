@@ -19,9 +19,10 @@ I'm a Data Science student.
 Universities:
 - Warsaw University of Technology<br/>
 - Vienna University of Technology<br/>
+
 Feel free to contact with me.
 
-You could find here university projects and my own ideas!
+You could find here university projects and my own ideas! <br/>
 Technologies I am familiar with:
 - R (Shiny), Matlab
 - Java (Spring-Boot)
