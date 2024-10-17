@@ -25,9 +25,8 @@ Feel free to contact with me.
 You could find here university projects and my own ideas! <br/>
 Technologies I am familiar with:
 - R, Matlab
-- Java
+- Java, Kotlin
 - Python
 - JavaScript, ReactNative
 - SQL, MongoDB
-- Kotlin
 - AWS
