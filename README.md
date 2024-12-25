@@ -26,7 +26,7 @@ You could find here university projects and my own ideas! <br/>
 Technologies I am familiar with:
 - R, Matlab
 - Java, Kotlin
-- Python
+- Python, Spark
 - JavaScript, ReactNative
 - SQL, MongoDB
 - AWS
