@@ -30,5 +30,5 @@ Technologies I am familiar with:
 - JavaScript, ReactNative
 - SQL, MongoDB
 - AWS
-
-[My Resume](https://github.com/wojo501/Resume/blob/main/General/WojciechMichalukResume_general.pdf)
+  
+[My Resume](https://github.com/wojo501/Resume/blob/main/WojciechMichalukCVOnePage02_25.pdf)
