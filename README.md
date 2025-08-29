@@ -24,11 +24,12 @@ Feel free to contact with me.
 
 You could find here university projects and my own ideas! <br/>
 Technologies I am familiar with:
-- R, Matlab
-- Java, Kotlin
 - Python, Spark
-- JavaScript, ReactNative
+- Java, Kotlin
+- JavaScript, ReactNative, React
 - SQL, MongoDB
-- AWS
+- AWS, Azure
+- Docker, Kubernetes, Terraform
+- R, Matlab
   
 [My Resume](https://github.com/wojo501/Resume/blob/main/WojciechMichalukResumeOnePage.pdf)
