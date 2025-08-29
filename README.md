@@ -31,4 +31,4 @@ Technologies I am familiar with:
 - SQL, MongoDB
 - AWS
   
-[My Resume](https://github.com/wojo501/Resume/blob/main/WojciechMichalukCVOnePage02_25.pdf)
+[My Resume](https://github.com/wojo501/Resume/blob/main/WojciechMichalukResumeOnePage.pdf)
