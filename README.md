@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Wojciech+%F0%9F%91%8B;Data+Scientist;Machine+Learning+%7C+Cloud+%7C+Software" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Data+Scientist;Machine+Learning+%7C+Cloud+%7C+Software" alt="Typing SVG" />
 
 <p>
   <a href="https://github.com/wojo501/Resume/blob/main/WojciechMichaluk.pdf">
