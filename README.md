@@ -73,16 +73,6 @@
 
 ---
 
-### 🚀 Featured projects
-
-| Project | Description |
-|:--|:--|
-| 🎣 [**Clickbait Detection Thesis**](https://github.com/matkubita/ClickbaitDetectionThesis) | Bachelor thesis (WUT): clickbait detection with XGBoost + OpenAI embeddings (F1 = 0.909) and a Chromium browser extension |
-| 🌐 [**Federated Learning on CIFAR-10**](https://github.com/wojo501/speml24_2) | TU Wien: federated vs. centralized learning with TensorFlow Federated and PySyft, differential privacy and compression |
-| 📰 [**RecSys Challenge 2024**](https://github.com/wojo501/recommender_systems) | TU Wien: news recommendation on EB-NeRD with NPA, LSTUR and an NRMS baseline |
-
----
-
 ### 📊 GitHub stats
 
 <div align="center">
