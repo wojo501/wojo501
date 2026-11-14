@@ -29,20 +29,14 @@
 
 <table>
   <tr>
-    <td align="center" width="260">
-      <img src="assets/tue.png" height="60" alt="TU/e logo"/><br/><br/>
-      <b>Eindhoven University<br/>of Technology</b><br/>
-      <img src="https://flagcdn.com/w20/nl.png" width="16" alt="NL"/> <sub>TU/e · Netherlands</sub>
+    <td align="center" width="33%">
+      <img src="https://flagcdn.com/w40/nl.png" width="28" alt="Netherlands"/><br/><b>Eindhoven University of Technology</b><br/><sub>TU/e</sub>
     </td>
-    <td align="center" width="260">
-      <img src="assets/wut.png" height="60" alt="WUT logo"/><br/><br/>
-      <b>Warsaw University<br/>of Technology</b><br/>
-      <img src="https://flagcdn.com/w20/pl.png" width="16" alt="PL"/> <sub>WUT · Poland</sub>
+    <td align="center" width="33%">
+      <img src="https://flagcdn.com/w40/pl.png" width="28" alt="Poland"/><br/><b>Warsaw University of Technology</b><br/><sub>WUT</sub>
     </td>
-    <td align="center" width="260">
-      <img src="assets/tuwien.png" height="60" alt="TU Wien logo"/><br/><br/>
-      <b>Vienna University<br/>of Technology</b><br/>
-      <img src="https://flagcdn.com/w20/at.png" width="16" alt="AT"/> <sub>TU Wien · Austria</sub>
+    <td align="center" width="33%">
+      <img src="https://flagcdn.com/w40/at.png" width="28" alt="Austria"/><br/><b>Vienna University of Technology</b><br/><sub>TU Wien</sub>
     </td>
   </tr>
 </table>
