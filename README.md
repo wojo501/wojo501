@@ -27,22 +27,20 @@
 
 ### 🎓 Education
 
-### 🎓 Education
-
 <table>
   <tr>
     <td align="center" width="260">
-      <img src="https://raw.githubusercontent.com/wojo501/REPO_NAME/main/assets/tue.png" height="70" alt="TU/e logo"/><br/><br/>
+      <img src="https://raw.githubusercontent.com/wojo501/assets/tue.png" height="70" alt="TU/e logo"/><br/><br/>
       <b>Eindhoven University<br/>of Technology</b><br/>
       <img src="https://flagcdn.com/w20/nl.png" width="16" alt="NL"/> <sub>TU/e · Netherlands</sub>
     </td>
     <td align="center" width="260">
-      <img src="https://raw.githubusercontent.com/wojo501/REPO_NAME/main/assets/tuw.png" height="70" alt="WUT logo"/><br/><br/>
+      <img src="https://raw.githubusercontent.com/wojo501/assets/tuw.png" height="70" alt="WUT logo"/><br/><br/>
       <b>Warsaw University<br/>of Technology</b><br/>
       <img src="https://flagcdn.com/w20/pl.png" width="16" alt="PL"/> <sub>WUT · Poland</sub>
     </td>
     <td align="center" width="260">
-      <img src="https://raw.githubusercontent.com/wojo501/REPO_NAME/main/assets/tuwien.png" height="70" alt="TU Wien logo"/><br/><br/>
+      <img src="https://raw.githubusercontent.com/wojo501/assets/tuwien.png" height="70" alt="TU Wien logo"/><br/><br/>
       <b>Vienna University<br/>of Technology</b><br/>
       <img src="https://flagcdn.com/w20/at.png" width="16" alt="AT"/> <sub>TU Wien · Austria</sub>
     </td>
