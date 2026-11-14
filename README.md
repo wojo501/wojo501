@@ -18,7 +18,7 @@
 
 ### 🧑‍💻 About me
 
-- 🎓 **Data Science** graduated from three European universities
+- 🎓 **Data Science** graduate of three European universities
 - 🔬 Interested in **machine learning, NLP and recommender systems**
 - 🛠️ Here you'll find **university projects** and **my own ideas**
 - 📫 **Feel free to contact me!**
@@ -30,17 +30,17 @@
 <table>
   <tr>
     <td align="center" width="260">
-      <img src="https://raw.githubusercontent.com/wojo501/assets/blob/main/tue.png" height="70" alt="TU/e logo"/><br/><br/>
+      <img src="assets/tue.png" height="70" alt="TU/e logo"/><br/><br/>
       <b>Eindhoven University<br/>of Technology</b><br/>
       <img src="https://flagcdn.com/w20/nl.png" width="16" alt="NL"/> <sub>TU/e · Netherlands</sub>
     </td>
     <td align="center" width="260">
-      <img src="https://raw.githubusercontent.com/wojo501/assets/blob/main/tuw.png" height="70" alt="WUT logo"/><br/><br/>
+      <img src="assets/tuw.png" height="70" alt="WUT logo"/><br/><br/>
       <b>Warsaw University<br/>of Technology</b><br/>
       <img src="https://flagcdn.com/w20/pl.png" width="16" alt="PL"/> <sub>WUT · Poland</sub>
     </td>
     <td align="center" width="260">
-      <img src="https://raw.githubusercontent.com/wojo501/assets/blob/main/tuwien.png" height="70" alt="TU Wien logo"/><br/><br/>
+      <img src="assets/tuwien.png" height="70" alt="TU Wien logo"/><br/><br/>
       <b>Vienna University<br/>of Technology</b><br/>
       <img src="https://flagcdn.com/w20/at.png" width="16" alt="AT"/> <sub>TU Wien · Austria</sub>
     </td>
@@ -89,8 +89,5 @@
 <a href="https://www.linkedin.com/in/wojciech-michaluk-a09465269/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<!-- <a href="mailto:YOUR@EMAIL">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a> -->
 
 </div>
