@@ -6,10 +6,6 @@
   <a href="https://github.com/wojo501/Resume/blob/main/WojciechMichaluk.pdf">
     <img src="https://img.shields.io/badge/📄_My_Resume-View_PDF-2F81F7?style=for-the-badge" alt="Resume"/>
   </a>
-  <a href="https://github.com/wojo501">
-    <img src="https://img.shields.io/github/followers/wojo501?label=Followers&style=for-the-badge&logo=github&color=24292e" alt="GitHub followers"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=wojo501&style=for-the-badge&color=blueviolet&label=Profile+views" alt="Profile views"/>
 </p>
 
 </div>
