@@ -30,13 +30,13 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      🇳🇱<br/><b>Eindhoven University of Technology</b><br/><sub>TU/e</sub>
+      <img src="https://flagcdn.com/w40/nl.png" width="28" alt="Netherlands"/><br/><b>Eindhoven University of Technology</b><br/><sub>TU/e</sub>
     </td>
     <td align="center" width="33%">
-      🇵🇱<br/><b>Warsaw University of Technology</b><br/><sub>WUT</sub>
+      <img src="https://flagcdn.com/w40/pl.png" width="28" alt="Poland"/><br/><b>Warsaw University of Technology</b><br/><sub>WUT</sub>
     </td>
     <td align="center" width="33%">
-      🇦🇹<br/><b>Vienna University of Technology</b><br/><sub>TU Wien</sub>
+      <img src="https://flagcdn.com/w40/at.png" width="28" alt="Austria"/><br/><b>Vienna University of Technology</b><br/><sub>TU Wien</sub>
     </td>
   </tr>
 </table>
