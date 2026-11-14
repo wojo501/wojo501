@@ -18,7 +18,7 @@
 
 ### 🧑‍💻 About me
 
-- 🎓 **Data Science** student studying at three European universities
+- 🎓 **Data Science** graduated from three European universities
 - 🔬 Interested in **machine learning, NLP and recommender systems**
 - 🛠️ Here you'll find **university projects** and **my own ideas**
 - 📫 **Feel free to contact me!**
