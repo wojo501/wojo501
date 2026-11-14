@@ -33,4 +33,4 @@ Technologies I am familiar with:
 - Docker, Kubernetes, Terraform
 - R, Matlab
   
-[My Resume](https://github.com/wojo501/Resume/blob/main/WojciechMichalukResumeOnePage.pdf)
+[My Resume](https://github.com/wojo501/Resume/blob/main/WojciechMichaluk.pdf)
