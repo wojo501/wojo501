@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Wojciech+%F0%9F%91%8B;Data+Science+Student;Machine+Learning+%7C+Cloud+%7C+Software" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Wojciech+%F0%9F%91%8B;Data+Scientist;Machine+Learning+%7C+Cloud+%7C+Software" alt="Typing SVG" />
 
 <p>
   <a href="https://github.com/wojo501/Resume/blob/main/WojciechMichaluk.pdf">
@@ -29,14 +29,20 @@
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <img src="https://flagcdn.com/w40/nl.png" width="28" alt="Netherlands"/><br/><b>Eindhoven University of Technology</b><br/><sub>TU/e</sub>
+    <td align="center" width="260">
+      <img src="assets/tue.png" height="60" alt="TU/e logo"/><br/><br/>
+      <b>Eindhoven University<br/>of Technology</b><br/>
+      <img src="https://flagcdn.com/w20/nl.png" width="16" alt="NL"/> <sub>TU/e · Netherlands</sub>
     </td>
-    <td align="center" width="33%">
-      <img src="https://flagcdn.com/w40/pl.png" width="28" alt="Poland"/><br/><b>Warsaw University of Technology</b><br/><sub>WUT</sub>
+    <td align="center" width="260">
+      <img src="assets/wut.png" height="60" alt="WUT logo"/><br/><br/>
+      <b>Warsaw University<br/>of Technology</b><br/>
+      <img src="https://flagcdn.com/w20/pl.png" width="16" alt="PL"/> <sub>WUT · Poland</sub>
     </td>
-    <td align="center" width="33%">
-      <img src="https://flagcdn.com/w40/at.png" width="28" alt="Austria"/><br/><b>Vienna University of Technology</b><br/><sub>TU Wien</sub>
+    <td align="center" width="260">
+      <img src="assets/tuwien.png" height="60" alt="TU Wien logo"/><br/><br/>
+      <b>Vienna University<br/>of Technology</b><br/>
+      <img src="https://flagcdn.com/w20/at.png" width="16" alt="AT"/> <sub>TU Wien · Austria</sub>
     </td>
   </tr>
 </table>
