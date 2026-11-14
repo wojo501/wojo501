@@ -73,17 +73,6 @@
 
 ---
 
-### 📊 GitHub stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wojo501&show_icons=true&hide_border=true&theme=github_dark&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wojo501&layout=compact&hide_border=true&theme=github_dark" alt="Top languages"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=wojo501&hide_border=true&theme=github-dark-blue" alt="GitHub streak"/>
-</div>
-
----
-
 <div align="center">
 
 ### 📫 Let's connect
@@ -91,15 +80,11 @@
 <a href="https://github.com/wojo501/Resume/blob/main/WojciechMichaluk.pdf">
   <img src="https://img.shields.io/badge/Resume-2F81F7?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/>
 </a>
-<!-- Add your LinkedIn / email here, e.g.:
-<a href="https://www.linkedin.com/in/YOUR-PROFILE/">
+<a href="https://www.linkedin.com/in/wojciech-michaluk-a09465269/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:YOUR@EMAIL">
+<!-- <a href="mailto:YOUR@EMAIL">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
--->
-
-<sub>⭐ Thanks for visiting!</sub>
+</a> -->
 
 </div>
